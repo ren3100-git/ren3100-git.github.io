@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Ren SATO"
 lang: en
 ---
 
@@ -25,6 +25,4 @@ The relationship between tactile cognition and rheological property.
 
 ## Links
 - Google Scholar
-
-
-- GitHub
+https://scholar.google.co.jp/citations?user=0wo5w1IAAAAJ&hl=ja&oi=ao
