@@ -28,31 +28,101 @@
     "text": "Awards\n\nAward name, Year."
   },
   {
+    "objectID": "index-en.html",
+    "href": "index-en.html",
+    "title": "Home",
+    "section": "",
+    "text": "under preparation"
+  },
+  {
+    "objectID": "index-en.html#about",
+    "href": "index-en.html#about",
+    "title": "Home",
+    "section": "",
+    "text": "under preparation"
+  },
+  {
+    "objectID": "index-en.html#keyword",
+    "href": "index-en.html#keyword",
+    "title": "Home",
+    "section": "Keyword",
+    "text": "Keyword\nRheology Psycho-rheology Cognition science Polymer physics Gel Transient network"
+  },
+  {
+    "objectID": "index-en.html#research",
+    "href": "index-en.html#research",
+    "title": "Home",
+    "section": "Research",
+    "text": "Research\nThe relationship between tactile cognition and rheological property."
+  },
+  {
+    "objectID": "index-en.html#links",
+    "href": "index-en.html#links",
+    "title": "Home",
+    "section": "Links",
+    "text": "Links\n\nGoogle Scholar\nGitHub"
+  },
+  {
+    "objectID": "achievement-en.html",
+    "href": "achievement-en.html",
+    "title": "Achievement",
+    "section": "",
+    "text": "Author, Title, Journal, Year."
+  },
+  {
+    "objectID": "achievement-en.html#journal-articles",
+    "href": "achievement-en.html#journal-articles",
+    "title": "Achievement",
+    "section": "",
+    "text": "Author, Title, Journal, Year."
+  },
+  {
+    "objectID": "achievement-en.html#conferences",
+    "href": "achievement-en.html#conferences",
+    "title": "Achievement",
+    "section": "Conferences",
+    "text": "Conferences\n\nAuthor, Title, Conference, Year."
+  },
+  {
+    "objectID": "achievement-en.html#awards",
+    "href": "achievement-en.html#awards",
+    "title": "Achievement",
+    "section": "Awards",
+    "text": "Awards\n\nAward name, Year."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "I am a PhD student in …"
+    "text": "東京大学大学院工学系研究科バイオエンジニアリング専攻 博士後期課程 (2026年度進学)"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Home",
     "section": "",
-    "text": "I am a PhD student in …"
+    "text": "東京大学大学院工学系研究科バイオエンジニアリング専攻 博士後期課程 (2026年度進学)"
+  },
+  {
+    "objectID": "index.html#keyword",
+    "href": "index.html#keyword",
+    "title": "Home",
+    "section": "Keyword",
+    "text": "Keyword\nレオロジー サイコレオロジー 認知科学 高分子材料力学 ゲル 過渡的網目"
   },
   {
     "objectID": "index.html#research",
     "href": "index.html#research",
     "title": "Home",
     "section": "Research",
-    "text": "Research\nMy research focuses on …"
+    "text": "Research\nレオロジー特性と触覚の相関の研究をしています。"
   },
   {
     "objectID": "index.html#links",
     "href": "index.html#links",
     "title": "Home",
     "section": "Links",
-    "text": "Links\n\nCV\nGoogle Scholar\nGitHub"
+    "text": "Links\n\nGoogle Scholar\nGitHub"
   }
 ]
