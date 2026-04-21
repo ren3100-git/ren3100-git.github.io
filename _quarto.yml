@@ -3,13 +3,26 @@ project:
   output-dir: docs
 
 website:
-  title: "佐藤 蓮"
+  title: "Ren SATO"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: achievement.qmd
         text: Achievement
+    right:
+      - text: JP
+        menu:
+          - href: index.qmd
+            text: Home
+          - href: achievement.qmd
+            text: Achievement
+      - text: EN
+        menu:
+          - href: index-en.qmd
+            text: Home
+          - href: achievement-en.qmd
+            text: Achievement
 
 format:
   html:
