@@ -1,18 +1,28 @@
 ---
 title: "Home"
+lang: ja
 ---
 
 
 ## About
 
-I am a PhD student in ...
+東京大学大学院工学系研究科バイオエンジニアリング専攻 博士後期課程 (2026年度進学)
+
+## Keyword
+
+レオロジー
+サイコレオロジー
+認知科学
+高分子材料力学
+ゲル
+過渡的網目
 
 ## Research
 
-My research focuses on ...
+レオロジー特性と触覚の相関の研究をしています。
 
 ## Links
-
-- CV
 - Google Scholar
+
+
 - GitHub

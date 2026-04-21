@@ -1,0 +1,29 @@
+---
+title: "Home"
+lang: en
+---
+
+
+## About
+
+under preparation
+
+## Keyword
+
+Rheology
+Psycho-rheology
+Cognition science
+Polymer physics
+Gel
+Transient network
+
+
+## Research
+
+The relationship between tactile cognition and rheological property.
+
+## Links
+- Google Scholar
+
+
+- GitHub
