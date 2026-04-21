@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Your Name"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: achievement.qmd
+        text: Achievement
+
+format:
+  html:
+    theme: cosmo
+    toc: false
