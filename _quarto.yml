@@ -3,26 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "Ren SATO"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: achievement.qmd
-        text: Achievement
-    right:
-      - text: JP
+      - text: Home
         menu:
           - href: index.qmd
-            text: Home
-          - href: achievement.qmd
-            text: Achievement
-      - text: EN
-        menu:
+            text: Jp
           - href: index-en.qmd
-            text: Home
+            text: En
+      - text: Achievement
+        menu:
+          - href: achievement.qmd
+            text: Jp
           - href: achievement-en.qmd
-            text: Achievement
+            text: En
 
 format:
   html:
