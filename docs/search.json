@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "achievement.html",
+    "href": "achievement.html",
+    "title": "Achievement",
+    "section": "",
+    "text": "Author, Title, Journal, Year."
+  },
+  {
+    "objectID": "achievement.html#journal-articles",
+    "href": "achievement.html#journal-articles",
+    "title": "Achievement",
+    "section": "",
+    "text": "Author, Title, Journal, Year."
+  },
+  {
+    "objectID": "achievement.html#conferences",
+    "href": "achievement.html#conferences",
+    "title": "Achievement",
+    "section": "Conferences",
+    "text": "Conferences\n\nAuthor, Title, Conference, Year."
+  },
+  {
+    "objectID": "achievement.html#awards",
+    "href": "achievement.html#awards",
+    "title": "Achievement",
+    "section": "Awards",
+    "text": "Awards\n\nAward name, Year."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I am a PhD student in …"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Home",
+    "section": "",
+    "text": "I am a PhD student in …"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Home",
+    "section": "Research",
+    "text": "Research\nMy research focuses on …"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Home",
+    "section": "Links",
+    "text": "Links\n\nCV\nGoogle Scholar\nGitHub"
+  }
+]
