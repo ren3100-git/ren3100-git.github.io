@@ -2,45 +2,47 @@
 title: "Achievement"
 lang: en
 ---
-
 ## Journal Articles
 
-1. Yamamoto, Y., Yamagata, Y., Sato, T., Nakamura, K., Sato, R., Naito, M., Chung, U., & Katashima, T. “Elucidating Nonlinear Stress Relaxation in Transient Networks through Two-Dimensional Rheo-Optics.” ACS Macro Letters, 13(9), 1171-1178 (2024).
+<ol reversed start="4">
+  <li>Furukawa, Y., Sato, R., Fukaya, N., Kajitani, T., Katashima, T., & Sugiyasu, K. “Linear and Branched Supramolecular Polymers Formed from Isomeric Monomers as Revealed by Solution Viscoelasticity.” Chemical Science. Accepted (2026).</li>
 
-2. Cho, R., Kamata, H., Tsuji, Y., Fujisawa, A., Miura, Y., Ishikawa, S., Sato, R., Katashima, T., Sakai, T., & Fujishiro, M. “Optimizing a self-solidifying hydrogel as an endoscopically deliverable hydrogel coating system: a proof-of-concept study on porcine endoscopic submucosal dissection-induced ulcers.” Polymer Journal, 1-9 (2024).
+  <li>Sato, R., Yamagata, Y., Araida, M., Sato, T., Naito, M., Sekiguchi, H., Akada, K., Chung, U., & Katashima, T. “Strain Amplitude Sweep Testing of Oscillatory Shear of Transient Networks with Controlled Network Structures.” Science and Technology of Advanced Materials, 2613918 (2026).</li>
 
-3. Sato, R., Yamagata, Y., Araida, M., Sato, T., Naito, M., Sekiguchi, H., Akada, K., Chung, U., & Katashima, T. “Strain amplitude sweep testing of oscillatory shear of transient networks with controlled network structures.” Science and Technology of Advanced Materials, 2613918 (2026).
+  <li>Cho, R., Kamata, H., Tsuji, Y., Fujisawa, A., Miura, Y., Ishikawa, S., Sato, R., Katashima, T., Sakai, T., & Fujishiro, M. “Optimizing a Self-Solidifying Hydrogel as an Endoscopically Deliverable Hydrogel Coating System: A Proof-of-Concept Study on Porcine Endoscopic Submucosal Dissection-Induced Ulcers.” Polymer Journal, 1–9 (2024).</li>
 
-4. Furukawa, Y., Sato, R., Fukaya, N., Kajitani, T., Katashima, T., & Sugiyasu, K. “Linear and branched supramolecular polymers formed from isomeric monomers as revealed by solution viscoelasticity.” Chemical Science. Accepted (2026).
+  <li>Yamamoto, Y., Yamagata, Y., Sato, T., Nakamura, K., Sato, R., Naito, M., Chung, U., & Katashima, T. “Elucidating Nonlinear Stress Relaxation in Transient Networks through Two-Dimensional Rheo-Optics.” ACS Macro Letters, 13(9), 1171–1178 (2024).</li>
+</ol>
 
 ## Presentations
 
-1. Ren Sato, Ung-il Chung, and Takuya Katashima, “Elucidating the Correlation Between Rheological Properties and Tactile Perception Using Transient Networks with Precisely Controlled Structures,” The 35th Gel Symposium of the Society of Polymer Science, Japan, The University of Tokyo, January 2023. (Poster presentation)
+<ol reversed start="13">
+  <li>Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Dependence of Tactile Perception and Behavior on Rheological Properties Using Model Materials,” The 30th East Japan Branch and Kanto District Rheology Meeting Master’s Thesis Presentation Meeting, DIC Headquarters, March 2026. (Oral presentation)</li>
 
-2. Ren Sato, Ung-il Chung, and Takuya Katashima, “Effect of Rheological Properties on Texture Using Well-Controlled Transient Networks,” The 28th East Japan Branch and Kanto District Rheology Meeting Master’s Thesis Presentation Meeting and the 64th Kanto District Rheology Meeting, Meiji University, March 2024. (Oral presentation)
+  <li>Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Analysis of Tactile Perception Using Model Viscoelastic Liquids with Systematically Controlled Structures,” The 73rd Rheology Symposium, P81, Aore Nagaoka, October 2025. (Poster presentation)</li>
 
-3. Ren Sato, Ung-il Chung, and Takuya Katashima, “Effects of Rheological Properties on Tactile Perception Using Model Viscoelastic Liquids with Precisely Controlled Structures,” Kanto Young Polymer Researchers Meeting, Student Presentation and Networking Event 2024, PB-11, The University of Tokyo, March 2024. (Poster presentation)
+  <li>Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Analysis of Tactile Perception Using Model Soft Materials with Systematically Controlled Structures,” The 89th Annual Convention of the Japanese Psychological Association, 3B-006-PH, Tohoku Gakuin University, September 2025. (Poster presentation)</li>
 
-4. Ren Sato, Ung-il Chung, and Takuya Katashima, “Elucidating the Effects of Rheological Properties on Tactile Perception Using Transient Networks with Precisely Controlled Structures,” The 51st Annual Meeting of the Society of Rheology, Japan, P38, Nagoya Institute of Technology, May 2024. (Poster presentation)
+  <li>Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Analysis of Tactile Factors Using Model Transient Networks with Systematically Controlled Structures,” The 52nd Annual Meeting of the Society of Rheology, Japan, P25, The University of Tokyo, May 2025. (Poster presentation)</li>
 
-5. Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Correlation Between Tactile Feel and Rheological Properties Using Transient Networks with Precisely Controlled Structures,” The 72nd Rheology Symposium, 2F02, Yamagata Terrsa, October 2024. (Oral presentation)
+  <li>Ren Sato, Yuka Furukawa, Takuya Katashima, Natsumi Fukaya, and Kazunori Sugiyasu, “Linear Viscoelasticity of Semidilute Supramolecular Polymer Solutions,” Kanto Young Polymer Researchers Meeting, Student Presentation and Networking Event 2024, PM-15, The University of Tokyo, March 2025. (Poster presentation)</li>
 
-6. Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Elucidating the Correlation Between Tactile Perception and Rheological Properties Using Transient Networks with Precisely Controlled Structures,” The 2nd Scientific Conference of the Society of Cosmetic Chemists of Japan, P1-26, Kobe International Conference Center, November 2024. (Poster presentation)
+  <li>Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Construction of Tactile Scales Using Model Viscoelastic Liquids and Their Dependence on Rheological Properties,” The 29th East Japan Branch and Kanto District Rheology Meeting Master’s Thesis Presentation Meeting and the 65th Kanto District Rheology Meeting, Meiji University, March 2025. (Oral presentation)</li>
 
-7. Ren Sato, Riho Fujikura, Ung-il Chung, Etsuko Haryu, Yukiko Muramoto, and Takuya Katashima, “Relationships Between Rheological Properties and Tactile Sensory Using Viscoelastic Liquids with Controlled Network Structures,” Symposium on Life Science Technologies, Aalto University, Espoo, Finland, January 2025. (Oral presentation)
+  <li>Ren Sato, Riho Fujikura, Ung-il Chung, Etsuko Haryu, Yukiko Muramoto, and Takuya Katashima, “Relationships between Rheological Properties and Tactile Sensory Using Viscoelastic Liquids with Controlled Network Structures,” Symposium on Life Science Technologies, Aalto University, Espoo, Finland, January 2025. (Oral presentation)</li>
 
-8. Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Construction of Tactile Scales Using Model Viscoelastic Liquids and Their Dependence on Rheological Properties,” The 29th East Japan Branch and Kanto District Rheology Meeting Master’s Thesis Presentation Meeting and the 65th Kanto District Rheology Meeting, Meiji University, March 2025. (Oral presentation)
+  <li>Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Elucidating the Correlation Between Tactile Perception and Rheological Properties Using Transient Networks with Precisely Controlled Structures,” The 2nd Scientific Conference of the Society of Cosmetic Chemists of Japan, P1-26, Kobe International Conference Center, November 2024. (Poster presentation)</li>
 
-9. Ren Sato, Yuka Furukawa, Takuya Katashima, Natsumi Fukaya, and Kazunori Sugiyasu, “Linear Viscoelasticity of Semidilute Supramolecular Polymer Solutions,” Kanto Young Polymer Researchers Meeting, Student Presentation and Networking Event 2024, PM-15, The University of Tokyo, March 2025. (Poster presentation)
+  <li>Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Correlation Between Tactile Feel and Rheological Properties Using Transient Networks with Precisely Controlled Structures,” The 72nd Rheology Symposium, 2F02, Yamagata Terrsa, October 2024. (Oral presentation)</li>
 
-10. Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Analysis of Tactile Factors Using Model Transient Networks with Systematically Controlled Structures,” The 52nd Annual Meeting of the Society of Rheology, Japan, P25, The University of Tokyo, May 2025. (Poster presentation)
+  <li>Ren Sato, Ung-il Chung, and Takuya Katashima, “Elucidating the Effects of Rheological Properties on Tactile Perception Using Transient Networks with Precisely Controlled Structures,” The 51st Annual Meeting of the Society of Rheology, Japan, P38, Nagoya Institute of Technology, May 2024. (Poster presentation)</li>
 
-11. Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Analysis of Tactile Perception Using Model Soft Materials with Systematically Controlled Structures,” The 89th Annual Convention of the Japanese Psychological Association, 3B-006-PH, Tohoku Gakuin University, September 2025. (Poster presentation)
+  <li>Ren Sato, Ung-il Chung, and Takuya Katashima, “Effects of Rheological Properties on Tactile Perception Using Model Viscoelastic Liquids with Precisely Controlled Structures,” Kanto Young Polymer Researchers Meeting, Student Presentation and Networking Event 2024, PB-11, The University of Tokyo, March 2024. (Poster presentation)</li>
 
-12. Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Analysis of Tactile Perception Using Model Viscoelastic Liquids with Systematically Controlled Structures,” The 73rd Rheology Symposium, P81, Aore Nagaoka, October 2025. (Poster presentation)
+  <li>Ren Sato, Ung-il Chung, and Takuya Katashima, “Effect of Rheological Properties on Texture Using Well-Controlled Transient Networks,” The 28th East Japan Branch and Kanto District Rheology Meeting Master’s Thesis Presentation Meeting and the 64th Kanto District Rheology Meeting, Meiji University, March 2024. (Oral presentation)</li>
 
-13. Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Dependence of Tactile Perception and Behavior on Rheological Properties Using Model Materials,” The 30th East Japan Branch and Kanto District Rheology Meeting Master’s Thesis Presentation Meeting, DIC Headquarters, March 2026. (Oral presentation)
-
+  <li>Ren Sato, Ung-il Chung, and Takuya Katashima, “Elucidating the Correlation Between Rheological Properties and Tactile Perception Using Transient Networks with Precisely Controlled Structures,” The 35th Gel Symposium of the Society of Polymer Science, Japan, The University of Tokyo, January 2023. (Poster presentation)</li>
+</ol>
 
 ## Awards
 
