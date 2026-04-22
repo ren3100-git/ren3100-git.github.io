@@ -15,6 +15,8 @@ Katashima-Chung Lab.
 
 **○ The relationship between tactile cognition and rheological property**
 
+![Schematic illistration of my reserch theme](OverView.png)
+
 ・Soft matter, exemplified by the human body, foods, and cosmetics, exhibits intermediate properties between viscosity and elasticity, known as **“rheological properties”**.<br>
 → diverse forms of tactile perception, such as “puffy” or “sticky”.
 
