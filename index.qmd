@@ -4,7 +4,7 @@ lang: ja
 ---
 
 
-## About
+## 所属
 
 東京大学大学院工学系研究科バイオエンジニアリング専攻 博士後期課程 (2026年度進学)
 
@@ -19,15 +19,15 @@ lang: ja
 ゲル
 過渡的網目
 
-## Research
+## 研究
 
 レオロジー特性と触覚の相関の研究をしています。
 
-## Contact
+## 連絡先
 
 E-mail: ren3100@gmail.com
 
 
-## Links
+## 関連リンク
 - [Google Scholar](https://scholar.google.co.jp/citations?user=0wo5w1IAAAAJ&hl=ja&oi=ao)
 - [Lab. information](https://rheo.tokyo/)

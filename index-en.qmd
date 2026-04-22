@@ -4,7 +4,7 @@ lang: en
 ---
 
 
-## About
+## Affiliation
 
 Doctoral Program, Department of Bioengineering, Graduate School of Engineering, The University of Tokyo (from FY2026)
 
