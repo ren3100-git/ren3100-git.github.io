@@ -7,6 +7,7 @@ lang: ja
 ## About
 
 東京大学大学院工学系研究科バイオエンジニアリング専攻 博士後期課程 (2026年度進学)
+
 片島·鄭 研究室
 
 ## Keyword
@@ -22,6 +23,11 @@ lang: ja
 
 レオロジー特性と触覚の相関の研究をしています。
 
+## Contact
+
+E-mail: ren3100@gmail.com
+
+
 ## Links
-- Google Scholar
-https://scholar.google.co.jp/citations?user=0wo5w1IAAAAJ&hl=ja&oi=ao
+- [Google Scholar](https://scholar.google.co.jp/citations?user=0wo5w1IAAAAJ&hl=ja&oi=ao)
+- [Lab. information](https://rheo.tokyo/)
