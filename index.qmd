@@ -33,7 +33,6 @@ lang: ja
 ## 連絡先
 
 E-mail (Personal): rensato.ut[at]gmail.com
-
 E-mail (University): sato-ren3100[at]g.ecc.u-toyko.ac.jp
 
 ## 関連リンク
