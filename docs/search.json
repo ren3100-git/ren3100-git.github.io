@@ -95,7 +95,7 @@
     "href": "index.html#ソフトウェア",
     "title": "佐藤　蓮",
     "section": "ソフトウェア",
-    "text": "ソフトウェア\n\nMCRDP\nRheoPlus／RheoCompassの測定ファイルを読み込み、選択した変数をExcelへ整理するGUIアプリケーションです。\nソースコード · macOS版のダウンロード\n\n\nRheoSuperposition\n動的粘弾性、応力緩和、クリープのデータを指定した基準条件に重ね合わせ、シフト係数と重ね合わせ後のデータを出力するアプリケーションです。\nソースコード · macOS版のダウンロード"
+    "text": "ソフトウェア\n\nMCRDP\nRheoPlus／RheoCompassの測定ファイルを読み込み、選択した変数をExcelへ整理するGUIアプリケーションです。\nソースコード · macOS版のダウンロード\n\n\nRheoSuperposition\n動的粘弾性、応力緩和、クリープのデータを指定した基準条件に重ね合わせ、シフト係数と重ね合わせ後のデータを出力するアプリケーションです。\nソースコード · macOS版のダウンロード\n\n\n開発・配布および免責事項\n本ソフトウェアは個人が開発・配布しています。開発者はApple Developer Programに登録していません。本ソフトウェアは現状のまま提供され、動作、正確性、特定の目的への適合性を保証しません。利用は利用者自身の責任で行ってください。法令上認められる範囲において、開発者は本ソフトウェアの利用または利用不能により生じた損害、データの損失その他の不利益について責任を負いません。"
   },
   {
     "objectID": "index.html#連絡先",
@@ -137,7 +137,7 @@
     "href": "index-en.html#software",
     "title": "Ren SATO",
     "section": "Software",
-    "text": "Software\n\nMCRDP\nA graphical application for importing RheoPlus and RheoCompass measurement files and organizing selected variables into Excel workbooks.\nSource code · Download for macOS\n\n\nRheoSuperposition\nAn application for superposing dynamic viscoelastic, stress relaxation, and creep data at a specified reference condition and exporting shift factors and shifted data.\nSource code · Download for macOS"
+    "text": "Software\n\nMCRDP\nA graphical application for importing RheoPlus and RheoCompass measurement files and organizing selected variables into Excel workbooks.\nSource code · Download for macOS\n\n\nRheoSuperposition\nAn application for superposing dynamic viscoelastic, stress relaxation, and creep data at a specified reference condition and exporting shift factors and shifted data.\nSource code · Download for macOS\n\n\nDevelopment, distribution, and disclaimer\nThis software is developed and distributed by an individual developer who is not enrolled in the Apple Developer Program. It is provided as is, without warranties regarding its operation, accuracy, or fitness for a particular purpose. Use of the software is at the user’s own risk. To the extent permitted by applicable law, the developer accepts no liability for damages, data loss, or other adverse consequences arising from the use of, or inability to use, the software."
   },
   {
     "objectID": "index-en.html#contact",

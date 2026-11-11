@@ -43,6 +43,10 @@ An application for superposing dynamic viscoelastic, stress relaxation, and cree
 
 [Source code](https://github.com/ren3100-git/RheoSuperposition) · [Download for macOS](https://github.com/ren3100-git/RheoSuperposition/releases/latest)
 
+### Development, distribution, and disclaimer
+
+This software is developed and distributed by an individual developer who is not enrolled in the Apple Developer Program. It is provided as is, without warranties regarding its operation, accuracy, or fitness for a particular purpose. Use of the software is at the user’s own risk. To the extent permitted by applicable law, the developer accepts no liability for damages, data loss, or other adverse consequences arising from the use of, or inability to use, the software.
+
 ## Contact
 
 E-mail (Personal): rensato.ut[at]gmail.com
