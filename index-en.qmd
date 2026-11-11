@@ -29,6 +29,20 @@ Katashima-Chung Lab.
 
 Keyword: Rheology · Psycho-rheology · Cognition science · Polymer physics · Gel · Transient network
 
+## Software
+
+### MCRDP
+
+A graphical application for importing RheoPlus and RheoCompass measurement files and organizing selected variables into Excel workbooks.
+
+[Source code](https://github.com/ren3100-git/MCRDP) · [Download for macOS](https://github.com/ren3100-git/MCRDP/releases/latest)
+
+### RheoSuperposition
+
+An application for superposing dynamic viscoelastic, stress relaxation, and creep data at a specified reference condition and exporting shift factors and shifted data.
+
+[Source code](https://github.com/ren3100-git/RheoSuperposition) · [Download for macOS](https://github.com/ren3100-git/RheoSuperposition/releases/latest)
+
 ## Contact
 
 E-mail (Personal): rensato.ut[at]gmail.com

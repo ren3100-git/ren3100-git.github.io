@@ -30,6 +30,20 @@ lang: ja
 キーワード：レオロジー・サイコレオロジー・認知科学・高分子材料力学・ゲル・過渡的網目
 
 
+## ソフトウェア
+
+### MCRDP
+
+RheoPlus／RheoCompassの測定ファイルを読み込み、選択した変数をExcelへ整理するGUIアプリケーションです。
+
+[ソースコード](https://github.com/ren3100-git/MCRDP) · [macOS版のダウンロード](https://github.com/ren3100-git/MCRDP/releases/latest)
+
+### RheoSuperposition
+
+動的粘弾性、応力緩和、クリープのデータを指定した基準条件に重ね合わせ、シフト係数と重ね合わせ後のデータを出力するアプリケーションです。
+
+[ソースコード](https://github.com/ren3100-git/RheoSuperposition) · [macOS版のダウンロード](https://github.com/ren3100-git/RheoSuperposition/releases/latest)
+
 ## 連絡先
 
 E-mail (Personal): rensato.ut[at]gmail.com
