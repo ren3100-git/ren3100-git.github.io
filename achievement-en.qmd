@@ -17,8 +17,10 @@ lang: en
 
 ## Presentations
 
-<ol reversed start="15">
-  <li>Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Analysis of Tactile Sensation Using Soft Matter with Systematically Controlled Structures,” The 89th Annual Convention of the Japanese Psychological Association, Tohoku Gakuin University, Itsutsubashi Campus, September 2025. (Poster presentation)</li>
+<ol reversed start="16">
+  <li>Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Analysis of Tactile Exploratory Behavior Using Model Viscoelastic Liquids with Controlled Structures,” The 74th Rheology Symposium, Kyushu University, Ito Campus, October 2026. (Oral presentation)</li>
+
+  <li>Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Analysis of Tactile Sensation Using Soft Matter with Systematically Controlled Structures,” The 89th Annual Convention of the Japanese Psychological Association, Tohoku Gakuin University, Itsutsubashi Campus, September 2026. (Poster presentation)</li>
 
   <li>Ren Sato, Riho Fujikura, Etsuko Haryu, Yukiko Muramoto, Ung-il Chung, and Takuya Katashima, “Evaluation of Tactile Perception of Soft Matter Using Model Viscoelastic Liquids with Precisely Controlled Structures,” The 43rd Annual Meeting of the Japanese Cognitive Science Society, Otemon Gakuin University, Sojiji Campus, September 2026. (Poster presentation)</li>
 

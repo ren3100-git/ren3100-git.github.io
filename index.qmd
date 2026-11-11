@@ -34,23 +34,29 @@ lang: ja
 
 ### MCRDP
 
-RheoPlus／RheoCompassの測定ファイルを読み込み、選択した変数をExcelへ整理するGUIアプリケーションです。
+Anton Paar 社製 RheoPlus／RheoCompass のcsv ファイルを読み込み、選択した変数をExcelへ整理するGUIアプリケーションです。
+変数名の変更、データのフィルタリング、Igor pro 9 のグラフ作成に使用可能な command の出力も可能です。
 
 [ソースコード](https://github.com/ren3100-git/MCRDP) · [macOS版のダウンロード](https://github.com/ren3100-git/MCRDP/releases/latest)
 
 ### RheoSuperposition
 
 動的粘弾性、応力緩和、クリープのデータを指定した基準条件に重ね合わせ、シフト係数と重ね合わせ後のデータを出力するアプリケーションです。
+Igor pro 9 のグラフ作成に使用可能な command の出力も可能です。
 
 [ソースコード](https://github.com/ren3100-git/RheoSuperposition) · [macOS版のダウンロード](https://github.com/ren3100-git/RheoSuperposition/releases/latest)
 
 ### 開発・配布および免責事項
 
-本ソフトウェアは個人が開発・配布しています。開発者はApple Developer Programに登録していません。本ソフトウェアは現状のまま提供され、動作、正確性、特定の目的への適合性を保証しません。利用は利用者自身の責任で行ってください。法令上認められる範囲において、開発者は本ソフトウェアの利用または利用不能により生じた損害、データの損失その他の不利益について責任を負いません。
+本ソフトウェアは個人が開発・配布しています。開発者はApple Developer Programに登録しておりません。
+本ソフトウェアは現状のまま提供され、動作、正確性、特定の目的への適合性を保証しません。
+利用は利用者自身の責任で行っていただくよう、お願いいたします。
+法令上認められる範囲において、開発者は本ソフトウェアの利用または利用不能により生じた損害、データの損失その他の不利益について責任を負いません。
 
 ## 連絡先
 
 E-mail (Personal): rensato.ut[at]gmail.com
+
 E-mail (University): sato-ren3100[at]g.ecc.u-toyko.ac.jp
 
 ## 関連リンク
